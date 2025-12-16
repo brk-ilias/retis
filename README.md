@@ -1,10 +1,10 @@
-# RETIS: Recursive Elimination of Trivial Intermediate Splits
+# RETIS: Regression Tree Induction System
 
 Implementation of the RETIS algorithm by Karalic (1992) for regression and classification tasks.
 
 ## Overview
 
-RETIS (Recursive Elimination of Trivial Intermediate Splits) is a hybrid machine learning algorithm that combines the interpretability of decision trees with the predictive power of linear models. The algorithm builds a decision tree structure and fits linear regression or logistic regression models in the leaf nodes, potentially improving performance over standard decision trees.
+RETIS (Regression Tree Induction System) is a hybrid machine learning algorithm that combines the interpretability of decision trees with the predictive power of linear models. The algorithm builds a decision tree structure and fits linear regression or logistic regression models in the leaf nodes, potentially improving performance over standard decision trees.
 
 ### Key Features
 
@@ -184,15 +184,3 @@ Based on the evaluation notebook, RETIS demonstrates:
 ## References
 
 - Karalic, A. (1992). "Employing Linear Regression in Regression Tree Leaves". Proceedings of the European Conference on Artificial Intelligence (ECAI).
-
-## License
-
-This project is intended for educational purposes.
-
-## Author
-
-Implementation created for the RETIS algorithm project, based on Karalic 1992.
-
-## Contributing
-
-This is an academic project. For questions or suggestions, please contact the repository maintainer.
