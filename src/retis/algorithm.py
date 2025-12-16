@@ -2,7 +2,7 @@
 RETIS Algorithm Implementation
 Based on Karalic 1992: "Employing Linear Regression in Regression Tree Leaves"
 
-RETIS (Recursive Elimination of Trivial Intermediate Splits) is a hybrid algorithm
+RETIS (Regression Tree Induction System) is a hybrid algorithm
 that combines decision tree structure with linear regression models in leaf nodes.
 """
 
